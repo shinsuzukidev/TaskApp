@@ -54,13 +54,11 @@ namespace Console1
             //---- Func
             new FuncSample().Execute();
 
-
-
-
-
-
-
-
+            //---- Task
+            // new MyTask().Execute1();
+            // new MyTask().Execute2();
+            // new MyTask().Execute3();
+            new MyTask().Execute4();
 
 
             Console.WriteLine("________________________________________ end");
